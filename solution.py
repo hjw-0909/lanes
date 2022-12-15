@@ -1,5 +1,5 @@
 
-# edit by jiawei
+# edit by jiawei 2.0
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -65,5 +65,4 @@ if __name__ == '__main__':
     plt.savefig('err2')
 
     plt.show()
-    
-      
+
